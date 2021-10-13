@@ -1,11 +1,9 @@
 package g48962.diamond.model;
 
 import g48962.diamond.exception.GameException;
-import org.junit.Test;
-
-import java.util.Arrays;
-
 import static org.junit.Assert.*;
+import org.junit.Test;
+import java.util.Arrays;
 
 public class CaveTest {
     

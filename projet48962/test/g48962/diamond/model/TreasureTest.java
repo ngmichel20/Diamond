@@ -1,12 +1,11 @@
 package g48962.diamond.model;
 
 import java.util.ArrayList;
-import org.junit.Test;
 
 import java.util.Arrays;
 import java.util.List;
-
 import static org.junit.Assert.*;
+import org.junit.Test;
 
 public class TreasureTest {
 

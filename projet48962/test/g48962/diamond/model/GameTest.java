@@ -1,12 +1,10 @@
 package g48962.diamond.model;
 
 import g48962.diamond.exception.GameException;
+import static org.junit.Assert.*;
 import org.junit.Test;
 
 import java.util.List;
-
-import static org.junit.Assert.*;
-
 public class GameTest {
     @Test
     public void addAndGetExplorerGoodNumberOfExplorers() throws GameException {
